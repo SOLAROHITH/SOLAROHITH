@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sola Hem Rohith</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **a few Backend Projects**
-
-- 🌱 I’m currently learning **AWS, Docker**
+- 🔭 I’m currently working on **Production Grade Agentic AI Projects**
 
 - 📫 How to reach me **solarohith2192003@gmail.com**
 
